@@ -1,0 +1,20 @@
+.postImageWrapper{
+
+  height: 450px;
+  overflow: hidden;
+}
+
+.postImageWrapper img{
+    width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+}
+.btn{
+  outline: none;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  background-color: #333;
+  color: #fff;
+  cursor: pointer;
+  padding: 10px;
+}
